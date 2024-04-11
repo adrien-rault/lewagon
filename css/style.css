@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+body {
+  font-family: 'Lora', sans-serif;
+  font-size: 18px;
+  margin: 0;
+  background-color: #e7eff9;
+  justify-content: center;
+  align-items: center;
+  padding: 20px; 
+}
+
+
+h1, h2, h3 {
+  font-family: 'Lora', sans-serif;
+  font-weight: lighter;
+  color: #222831; 
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  color: #333; 
+}
+
+.centered-content {
+  text-align: center;
+  margin-top: 20px;
+}
+
+
+
+

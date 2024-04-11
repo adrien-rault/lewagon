@@ -1,0 +1,14 @@
+.btn-blue {
+  background-color: #0056b3; /* Blue shade for buttons */
+  color: #ffffff;
+  padding: 12px 17px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 20px;
+  transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.btn-blue:hover {
+  background-color: #003d82; /* Darker blue on hover */
+  color: #ffffff;
+}
